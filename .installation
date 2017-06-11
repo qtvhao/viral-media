@@ -1,2 +1,3 @@
 laravel new viralmedia
 php artisan make:auth
+php artisan migrate
